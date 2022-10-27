@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666874319 source:c:\users\temp\desktop\bib\main.cpp
+	<iostream>
+	"mat.h"
+
+1666874320 c:\users\temp\desktop\bib\mat.h
+
+1666874330 source:c:\users\temp\desktop\bib\mat.cpp
+	"mat.h"
+
